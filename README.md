@@ -13,7 +13,7 @@ When you start the app, you are greeted by this screen prompting you to create n
 
 ![Screenshot_20250628_131520](https://github.com/user-attachments/assets/c4f4e765-83d0-4613-a50c-f64ce768ccad)
 
-<img src="https://github.com/user-attachments/assets/c4f4e765-83d0-4613-a50c-f64ce768ccad)" width="200" />
+<img src="https://github.com/user-attachments/assets/c4f4e765-83d0-4613-a50c-f64ce768ccad" width="200" />
 
 When you create the tab, you can add an item by clicking the "+" button.
 When you do so, the add menu pops up.
