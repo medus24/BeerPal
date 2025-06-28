@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background color -->
+    <item android:drawable="@color/foam_cream" />
+
+    <!-- Smaller logo centered using inset -->
+    <item>
+            <bitmap
+                android:src="@mipmap/ic_beerpal_logo_foreground"
+                android:gravity="center" />
+    </item>
+
+</layer-list>
